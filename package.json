@@ -1,0 +1,15 @@
+{
+  "name": "to_do",
+  "version": "0.0.1",
+  "author": "Calvin",
+  "dependencies": {
+    "sqlite3": "2.1.x",
+    "pg": "2.5.x",
+    "mocha": "1.17.x",
+    "underscore": "1.6.x"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.8.x"
+  }
+}
