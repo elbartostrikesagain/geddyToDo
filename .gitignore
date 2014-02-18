@@ -26,3 +26,6 @@ results
 build
 
 node_modules
+
+_datastore.json
+_session_store.json
